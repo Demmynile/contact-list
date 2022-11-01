@@ -5,7 +5,7 @@ import ContactComponent from './containers/Contacts';
 import CreateContactComponent from './containers/CreateContact';
 import LoginComponent from './containers/Login';
 import RegisterComponent from './containers/Register';
-import { routes } from './routes';
+import 'semantic-ui-css/semantic.min.css'
 
 function App() {
   return (
