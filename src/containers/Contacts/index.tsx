@@ -7,7 +7,7 @@ export default function ContactComponent({}: Props) {
   return (
 	<div>
 		<Header />
-		Contacts
+		<h1>Contacts</h1>
 	</div>
   )
 }
